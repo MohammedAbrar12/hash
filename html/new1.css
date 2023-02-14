@@ -1,0 +1,40 @@
+#a{
+    height: 350px;
+    width: 250px;
+    position:relative ;
+
+}
+#b{
+    height: 350px;
+    width: 250px;
+    position: relative;
+    background-color: rgba(31, 185, 26, 0.253);
+    bottom: 150px;
+    color: aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+#b:hover{
+    visibility: hidden;
+}
+
+#aa{
+    height: 350px;
+    width: 250px;
+    position:relative;
+    z-index: 3;
+
+}
+#bb{
+    height: 350px;
+    width: 250px;
+    position: relative;
+    background-color: rgba(31, 185, 26, 0.253);
+    bottom: 150px;
+    color: rgba(163, 204, 240, 0.877);
+    z-index: 2;
+   
+}
+#aa:hover{
+    visibility: hidden;
+}

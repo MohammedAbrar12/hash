@@ -1,0 +1,29 @@
+ul{
+    width: 1200px;
+    height: 50px;
+    margin: auto;
+   
+}
+li{
+    display: inline-block;
+    list-style-type: none;
+    padding: 15px;
+    float: right;
+    color: aliceblue;
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#a{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAAOlbpOnqtiohzliUsEophHH5ibx716847MITcAN3bQ&s);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+.b{
+    color: aliceblue;
+}
+.c{
+    float: left;
+    font-size: xx-small;
+}

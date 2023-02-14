@@ -1,0 +1,70 @@
+#demo3{
+    background-image:url(https://media-cdn.tripadvisor.com/media/photo-s/0e/31/4e/fe/royal-spice-indian-restaurant.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+}
+#demo9
+{
+    background-image: url(https://cdn.pixabay.com/photo/2014/09/17/20/26/restaurant-449952__340.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:blueviolet;
+    background-color: red;
+}
+#demo2{
+    background-image: url(https://cdn.pixabay.com/photo/2017/06/06/22/46/mediterranean-cuisine-2378758__340.jpg);
+     background-repeat: no-repeat;
+    background-size: cover;
+color: brown;
+background-color: aquamarine;
+}
+#demo4{
+    background-image: url(https://cdn.pixabay.com/photo/2018/07/14/15/27/cafe-3537801__340.jpg);
+     background-repeat: no-repeat;
+    background-size: cover;
+color: brown;
+background-color: aquamarine;
+}
+#demo5{
+    background-image: url(https://media.istockphoto.com/photos/chinese-food-blank-background-picture-id545286388?b=1&k=20&m=545286388&s=170667a&w=0&h=NBSXjfSVP0GdwAOBYELxOFwoYZAXYya1HTGUJYBkh8I=);
+     background-repeat: no-repeat;
+    background-size: cover;
+color: brown;
+background-color: aquamarine;
+}
+button{
+    background-color: brown;
+    color: aliceblue;
+    float: right;
+}
+#a{
+    font-size: xx-large;
+    font-style: italic;
+    text-align: center;
+    color: beige;
+}
+#demo8{
+ 
+    animation: abc 8s infinite;
+}
+@keyframes abc{
+    20%
+    {
+      
+      background-color: red;
+    }
+    40%{
+    background-color: blue;
+
+    }
+60%{
+    background-color:yellow;
+}
+80%{
+    background-color:wheat;
+}
+100%{
+    background-color:green;
+}
+}

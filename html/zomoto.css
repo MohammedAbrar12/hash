@@ -1,0 +1,64 @@
+#a{
+    background-image: url(https://t4.ftcdn.net/jpg/02/84/46/89/360_F_284468936_x9z7JcG7abktWKd750bP2CcjCqeZyHtm.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+ul{
+    background-color: rgb(216, 97, 137);
+    list-style-type: none;
+    text-decoration: none;
+}
+h1{
+    font-size: xx-large;
+    font-style: normal;
+    color: aliceblue;
+}
+h3{
+    font-size: x-large;
+    font-style: normal;
+    color: aliceblue;
+
+}
+h6{
+    margin-left: 100px;
+    text-decoration: none;
+    color: white;
+    padding-top: 30px;
+}
+#b{
+    background-color: gray;
+}
+#c{
+    color: azure;
+    
+   gap: 50px;
+   margin-right: 20px;
+}
+#cc{
+    color: azure;
+    margin-left: 20px;
+}
+#ccc{
+ margin-right: 20px;    
+}
+#bb{
+    background-color: paleturquoise;
+}
+.n:hover{
+    filter: grayscale();
+}
+.p:hover{
+filter: brightness(2.5);
+}
+.s:hover{
+filter: contrast(1.5);
+}
+.nn:hover{
+filter: contrast(2.5);
+}
+.pp:hover{
+filter:hue-rotate(10px) ;
+}
+.ss:hover{
+filter: grayscale();
+}

@@ -1,0 +1,45 @@
+#a{
+    height: 300px;
+    width: 300px;
+    background-color: orange;
+  background-image:repeating-linear-gradient(to right, yellow 10%,black 20%);
+}
+#b{
+
+
+    height: 300px;
+    width: 300px;
+    background-color: orange;
+  background-image:linear-gradient(to right,pink,red,green,blue );
+
+
+}
+#c{
+    height: 300px;
+    width: 300px;
+    background-color: orange;
+  background-image:conic-gradient( pink,red,green,blue);
+}
+#d{
+    height: 300px;
+    width: 300px;
+    background-color: orange;
+  background-image:radial-gradient( black, white, purple,gray);
+}
+#e{
+    height: 300px;
+    width: 300px;
+    background-color: orange;
+  background-image:repeating-conic-gradient( pink,red,green,blue);
+  border: 10px;
+  border-radius: 90px;
+
+}
+#e:hover{
+animation:abc 1s infinite;
+}
+@keyframes abc{
+100%{ transform: rotate(360deg);}
+}
+
+   

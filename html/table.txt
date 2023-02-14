@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>table</title>
+</head>
+<body>
+    <table border="10px">
+        <tr>
+            <th>s.no</th>
+            <th>name</th>
+            <th>place</th>
+
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>jeeva</td>
+            <td>vellore</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>kumar</td>
+            <td rowspan="2">ooty</td>   
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>abbu</td>
+
+        </tr>
+        <tr>
+            <td colspan="2">4</td>
+            <td>uk</td>
+            
+            
+        </tr>
+    </table>
+    <br>
+    <hr>
+    <br>
+    <table border="10">
+        <tr>
+            <th colspan="4">ipl</th></tr>
+            <tr>
+            <th>rcb</th>
+            <th>csk</th>
+            <th>mi</th>
+            <th>srh</th>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+
+    </table>
+
+    
+</body>
+</html>

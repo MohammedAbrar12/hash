@@ -1,0 +1,142 @@
+#home{
+    background-image: url(https://wallpaperaccess.com/full/3353905.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ul{
+    height: 30px;
+    width: 1200px;
+    margin: auto;
+   
+}
+a{
+    margin-left: 100px;
+    text-decoration: none;
+    color: white;
+    padding-top: 30px;
+}
+a:hover{
+    color: orange;
+    font-style: italic;
+}
+.a{
+    color: white;
+    font-size: 30px;
+    padding-top: 0px;
+}
+li{
+    padding-top: 30px;
+    list-style-type: none;
+    display: inline-block;
+    color: aliceblue;
+}
+.b{
+    margin-left: 200px;
+    background-color: transparent;
+    color: white;
+}
+h1{
+    color: white;
+    margin-left: 100px;
+}
+i{
+    color: orange;
+}
+.g{
+    font-size: 20px;
+    color: white;
+    margin-left: 100px;
+}
+.c{
+    border: 1px solid orange;
+    border-radius: 20px;
+    background-color: transparent;
+    padding: 15px;
+    color: white;
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-bottom: 200px;
+
+}
+.c:hover{
+    background-color: green;
+}
+#about{
+    background-color: black;
+    display: flex;
+}
+.h{
+    height: 500px;
+    width: 500px;
+    color: white;
+    font-size: 20px;
+    font-style: italic;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+.img{
+    height: 300px;
+    width: 300px;
+    margin-left: 300px;
+    margin-top: 100px;
+}
+.img:hover{
+    height: 325px;
+    width: 315px;
+}
+#menu{
+    background-image:url(https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3AtMzA0LWppcjAzNTYzMzc1NjU2NDNfMS5qcGc.jpg) ;
+    background-repeat:no-repeat ;
+    background-size: cover;
+}
+#c{
+    text-decoration-color: blanchedalmond;
+    font-size: 35px;
+    font-style: normal;
+    color: aliceblue;
+
+}
+.z{
+    color: white;
+    font-size: 20px;
+
+}
+#service{
+    background-color: black;
+    display: flex;
+}
+.l{
+    height: 500px;
+    width: 500px;
+    color: white;
+    font-size: 20px;
+    font-style: italic;
+    margin-left: 50px;
+    margin-top: 100px;
+
+}
+.m{
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+#contact{
+    background-color: black;
+    background-size: cover;
+    display: flex;
+}
+.n{
+    height: 500px;
+    width: 500px;
+    color: white;
+    font-size: 20px;
+    font-style: italic;
+    margin-left: 50px;
+    margin-top: 100px;
+
+}
+.o{
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}

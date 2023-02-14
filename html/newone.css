@@ -1,0 +1,76 @@
+ul{
+    width: 1300px;
+    height: 30px;
+    border: 5px solid black;
+    margin: auto;
+    background-color: bisque;
+}
+
+ ul li{
+color: brown;
+list-style-type: none;
+display: inline-block;
+padding-right: 170px;
+font-size: 25px;
+}
+.y{
+    background-color: aqua;
+
+
+}
+.x{
+    width: 200px;
+    height: 200px;
+    border: 2px solid saddlebrown;
+    display: flex;
+    font-size: large;
+    color: yellow;
+    background-color: rgb(224, 134, 187);
+    align-items: center;
+    justify-content: center;
+    animation: abrar 4s infinite ;
+}
+@keyframes abrar{
+    25%{
+        background-color: rgb(25, 199, 74);
+    }
+    25%{
+        background-color: black;
+    }
+    25%{
+        background-color: rgba(243, 222, 222, 0.842);
+    }
+    25%{
+        background-color: rgb(206, 43, 43);
+    }
+
+}
+
+/*
+HOVER
+.x:hover{
+    height: 300px;
+    width: 300px;
+    color: brown;
+
+}*/
+/*
+TRANSITION
+.x:hover{
+    transition: background-color color 10s;
+    background-color: white;
+    color: black;
+    transition-delay: 2s;
+}*/
+/*
+  TRANSFORM
+.x:hover{
+    transform: skew(40deg);
+     transform: scale(2);
+    transform: translate(123px);
+    transform: translatex(123px);
+    transform: translatey(123px);
+    transform: rotate(360 deg);  
+}*/
+
+

@@ -1,0 +1,107 @@
+a.link{
+color:brown
+}
+a.visited{
+    color: aqua;
+
+}
+a.active{
+color:blue
+}
+a.hover{
+color: rgb(74, 250, 20);
+}
+h2{
+    border: 50px solid salmon;
+    outline-color: black;
+    margin: 500px solid green;
+    padding: 200px;
+}
+h1{
+    margin:500px;
+    padding:100px;
+    border:20px solid black;
+    background-color: wheat;
+   
+    /*transform:rotate(90deg);*/
+}
+
+}
+body{
+    background-color: plum;
+}
+#c{
+    height: 200px;
+    width: 300px;
+    background-color: gold;
+    overflow: hidden;
+}
+#c{
+    overflow: scroll;
+}
+h5{
+    margin:500px ;
+    border:10px solid #f10606 ;
+    padding:100px ;
+    transform: rotate(234deg);
+    background-color: #a2f509e7;
+    font-size: xx-large;
+    text-emphasis-color: black;
+    
+}
+h6{
+    margin:500px ;
+    border:10px solid #f10606 ;
+    padding:100px ;
+    transform: skew(234deg);
+    background-color: #a2f509e7;
+    font-size: xx-large;
+    text-emphasis-color: black;
+  
+}
+h4{
+    
+    margin:500px ;
+    border:10px solid #f10606 ;
+    padding:100px ;
+    transform: scaley(2.5);
+    background-color: #a2f509e7;
+    font-size: xx-large;
+    text-emphasis-color: black;
+
+}
+h4:hover{
+box-shadow: 30px 20px 10px green;
+}
+h3{
+    margin:500px;
+    padding:100px;
+    border:20px solid black;
+    background-color: wheat;
+    animation: def 2s infinite;
+    transform:rotate(90deg);
+
+}
+@keyframes def{
+    50% { transform: rotateX(124deg);}
+    50%{ transform: rotatey(124deg);}
+}
+#z{margin:500px;
+    padding:100px;
+    border:20px solid black;
+    background-color: wheat;
+    
+    transform:rotate(90deg);
+
+
+}
+#z:hover{
+    animation: abr 2s infinite;
+}
+@keyframes abr{
+    50% { transform: skewX(124deg);}
+    50%{ transform: skewy(124deg);}
+}
+#abbu{
+    text-shadow: 30px 20px 10px red;
+}

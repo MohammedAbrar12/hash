@@ -1,0 +1,92 @@
+#a
+{
+    background-image:url(https://cdn.wallpapersafari.com/24/74/zgeTuV.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.g{
+    height:125px ;
+    width:100px ;
+    padding: 20px;
+
+}
+button
+{
+    background-color: crimson;
+    color: aliceblue;
+    float:right;
+}
+h1{
+    color:aliceblue;
+}
+h3{
+    color:blanchedalmond;
+}
+h5{
+    color:azure;
+}
+#demo{
+   background-color: black;
+   display: flex;
+}
+#navya{
+    color: antiquewhite;
+    height: 300px;
+    width:400px ;
+
+    margin-left: 200px;
+  margin-top: 200px;
+    font-size: large;
+}
+
+img{
+    height:500px ;
+    width:400px ;
+    margin-left: 100px;
+    margin-top: 50px ;
+    
+}
+#has{
+    background-color: black;
+   display: flex;
+}
+#c{
+    color: antiquewhite;
+    height: 200px;
+    width:200px ;
+    margin-left: 300px;
+    margin-top:50px;
+    font-size: x-large;
+}
+#e{
+    color: antiquewhite;
+    height: 300px;
+    width:400px ;
+
+    margin-left: 200px;
+  margin-top: 200px;
+    font-size: large;
+
+}
+#had{
+    background-color: black;
+    display: flex;
+}
+#have{
+    background-color: black;
+    display: flex;
+}
+#g{
+    color: antiquewhite;
+    height: 200px;
+    width:200px ;
+    margin-left: 300px;
+    padding: 10%;
+    font-size: larger;
+
+
+
+}
+#h{
+    float:left;
+}

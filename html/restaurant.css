@@ -1,0 +1,142 @@
+ul{
+    width: 1200px;
+    height: 30px;
+    margin: auto;
+   
+
+}
+li{
+    padding: 10px;
+    margin-left: 40px;
+    list-style-type: none;
+    display: inline-block;
+    color: aliceblue;
+    font-size: 24px;
+}
+#a{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEZlvbTCr3SegGuR1h_1jXftU8STpYTb58Z33Bk1rEGg&s);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.b{
+    color: aliceblue;
+
+}
+h1{
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.d{
+    background-color: rgba(0, 0, 0, 0.418);
+    color: aliceblue;
+    border-radius: 10px;
+}
+.d:hover{
+    padding-top: 10px;padding-bottom: 10px;padding-left: 13px;padding-right: 30px;transition-duration: 3s;
+    color: aquamarine;background-color: brown;
+}
+.e{
+    background-color: orange;
+    color:aliceblue;
+    border: 0ch;
+    border-radius: 15px;
+}
+.e:hover{
+    color: black;
+    background-color: aliceblue;
+    transition-duration: 2s;
+    padding: 10px;
+}
+#h{
+    display: flex;
+
+
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+
+}
+#g{
+    color: brown;
+    padding: 30px;
+    margin-top: 50px;
+}
+
+#g:hover{
+    
+    color: blue;
+}
+#gallery{
+    color: rgb(12, 90, 158);
+    background-color: rgba(235, 132, 6, 0.548);
+
+}
+.z{
+    border: 0ch;
+}
+.z:hover{
+    padding: 10px; transition-duration: 3s;
+   background-color: brown;
+   
+
+}
+@keyframes def{
+    50%{ transform: rotatey(124deg);}
+        50%{ transform: rotatey(124deg);}
+}
+#menu{
+    
+    background-color: rgb(211, 245, 17);
+}
+.q{
+    height: 200px;
+    width: 180px;
+    background-color: azure;
+    color: black;
+    border: 2px solid black;
+    align-items: center;
+    justify-content: center;
+    display: inline-block;
+
+}
+.q:hover{
+    padding: 10px;
+    color: brown;
+    background-color: rgba(216, 16, 16, 0.363);
+    transform: scale(123deg);
+}
+/*
+.q{
+    height: 200px;
+    width: 180px;
+    background-color: azure;
+    color: black;
+    border: 2px solid black;
+    text-align: center;
+   
+    
+}.q{
+    height: 200px;
+    width: 180px;
+    background-color: azure;
+    color: black;
+    border: 2px solid black;
+    text-align: center;
+    
+    
+}*/
+#con{
+    background-color: pink;
+
+}
+.co{
+   justify-content: center;
+}
+#oo{
+    border-radius: 50px;
+}
+table{
+    padding: 10px;
+    margin: auto;padding-right: 10px;
+}

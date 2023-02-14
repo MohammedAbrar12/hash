@@ -1,0 +1,12 @@
+h3{
+  margin:500px;
+      padding:100px;  
+    border:20px solid black;
+    background-color: wheat;
+    animation: abc 2c infinite;
+    /*transform:rotate(90deg);*/
+}
+@keyframes abc{
+    50% { transform: rotateX(124deg);}
+    50%{ transform: rotatey(124deg);}
+}

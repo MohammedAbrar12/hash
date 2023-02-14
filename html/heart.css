@@ -1,0 +1,17 @@
+.a{
+    
+    border-radius: 50%;
+    filter:opacity(0.8) ;
+}
+.b{
+    border-bottom-radius: 200px;
+    border-top-right-radius: 200px;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    filter: grayscale(1);
+}
+.c{
+    
+    border-top-right-radius: 50%;
+    border-collapse: collapse;
+}

@@ -1,0 +1,210 @@
+ul{
+    display: flex;
+    list-style-type: none;
+    background-color: rgb(rgba(18, 31, 42, 0.304), green, blue);
+
+}
+.b{
+    background-color: transparent;
+    border-radius: 30px;
+     border: 1px solid lightgreen;
+}
+body{
+    background-color: black;
+}
+.e{
+   color : white;
+   text-align: center;
+}
+#home{
+    color: aqua;
+}
+a{
+    text-decoration: none;
+    margin-left: 100px;
+    color: aqua;
+    padding-top: 30px;
+}
+a:hover{
+    color: white;
+    font-style: italic;
+}
+main{
+    margin-left: 120px;
+}
+.box{
+    display: block;
+    float: left;
+    width: 20%;
+    padding: 10px;
+    padding-left: 12px;
+}
+img{
+    width:100%;
+    border-radius: 5px;
+}
+#photo1:hover{
+    border: 1px solid black;
+    border-radius: 50%;
+    filter: opacity(0.5);
+    filter: grayscale(1);
+}
+#photo2:hover{
+    border: 1px solid black;
+    border-radius: 50%;
+    filter: opacity(0.5);
+    filter: grayscale(1);
+}
+#photo3:hover{
+    border: 1px solid black;
+    border-radius: 50%;
+    filter: opacity(0.5);
+    filter: grayscale(1);
+}
+#photo4:hover{
+    border: 1px solid black;
+    border-radius: 50%;
+    filter: opacity(0.5);
+    filter: grayscale(1);
+}
+#photo5:hover{
+    border: 1px solid black;
+    border-radius: 50%;
+    filter: opacity(0.5);
+    filter: grayscale(1);
+}
+#photo6:hover{
+    border: 1px solid black;
+    border-radius: 50%;
+    filter: opacity(0.5);
+    filter: grayscale(1);
+}
+#photo7:hover{
+    border: 1px solid black;
+    border-radius: 50%;
+    filter: opacity(0.5);
+    filter: grayscale(1);
+}
+#photo8:hover{
+    border: 1px solid black;
+    border-radius: 50%;
+    filter: opacity(0.5);
+    filter: grayscale(1);
+}
+#z1{
+    color: white;
+    text-align: center;
+}
+#z2{
+    margin-left: 200px;
+    color: aqua;
+    
+    
+}
+.photoleft{
+    float: left;
+}
+.imgphoto1{
+    height: 500px;
+    width: 250px;
+    padding:20px;
+}
+.sectionn{
+    height: 300px;
+    width: 300px;
+    background-color:rgb(22, 20, 20);
+    color: white;
+    margin-left: 50px;
+    
+
+}
+.m{
+    height: 300px;
+    width: 300px;
+    background-color:rgb(22, 20, 20);
+    color: white;
+    margin-left: 50px;
+    
+}
+.n{
+    height: 300px;
+    width: 300px;
+    background-color:rgb(22, 20, 20);;
+    color: white;
+    margin-left: 50px;
+}
+.o{
+        height: 300px;
+        width: 300px;
+        background-color:rgb(22, 20, 20);;
+        color: white;
+        margin-left: 50px;
+    }
+    .f{
+        display: flex;
+    }
+    
+    .y{
+        color: rgb(49, 119, 70);
+    }
+
+.photoq1{
+    height: 150px;
+    width:200px;
+    padding:10px;
+    border-radius: 50%;
+}
+.photogallery{
+    color: aqua;
+}
+.service1{
+    color: aqua;
+}
+#zz{
+    color: aqua;
+}
+.serive1{
+    color: antiquewhite;
+    text-align: center;
+}
+.serive2{
+    color:white;
+    margin: 20px;
+}
+.serive3{
+    color:white;
+    margin: 20px;
+}
+.Serviceaection{
+    text-align: center;
+}
+.con{
+    color: aqua;
+    text-align: center;
+}
+.sectionA{
+    text-align: center;
+    color: beige;
+}
+.sectionA:hover{
+    color: #ddd;
+}
+.con:hover{
+    color: coral;
+    font-style: italic;
+}
+.service1:hover{
+    color: coral;
+    font-style: italic;
+}
+#zz:hover{
+    color: coral;
+    font-style: italic;
+}
+.y:hover{
+    color: coral;
+    font-style: italic;
+}
+.photogallery:hover{
+    color: coral;
+    font-style: italic;
